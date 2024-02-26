@@ -4,7 +4,7 @@
 </div>  
   
 
-### <div align="center">I'm Munna Kalpana Narayan Jha, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
+### <div align="center">I'm Munna Kalpana Narayan Jha,  I am a Full stack Mern developer 🚀</div>  
   
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/munnakrjha/github-profilinator)  
