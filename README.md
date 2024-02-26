@@ -7,7 +7,7 @@
 ### <div align="center">I'm Munna Kalpana Narayan Jha, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on [Github Profilinator](https://github.com/munnakrjha/github-profilinator)  
   
 
 - 🌱 I’m currently learning Next,React-Native Hyperledger and Kubernetes  
@@ -82,7 +82,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/rishavanand" target="_blank">
+<a href="https://github.com/munnakrjha" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/iamrishavanand" target="_blank">
