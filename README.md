@@ -7,7 +7,7 @@
 ### <div align="center">I'm Munna Kalpana Narayan Jha,  I am a Full stack Mern developer 🚀</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/munnakrjha/github-profilinator)  
+- 🔭 I’m currently working on myself  
   
 
 - 🌱 I’m currently learning Next,React-Native Hyperledger and Kubernetes  
