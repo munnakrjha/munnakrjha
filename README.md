@@ -48,7 +48,7 @@ Hi there! I'm **Munna Kumar Jha**, a fresher Software Engineer with a passion fo
 
 ## 📈 **What I’m Learning**  
 - 🛠️ **Advanced Data Structures and Algorithms (DSA)**  
-- 🔥 **React.js & Node.js** for Full-Stack Development  
+- 🔥 **React.js, AWS, Apache Kafka & Node.js** for Full-Stack Development  
 - 🌐 Exploring **DevOps Tools**  
 
 </div>
