@@ -33,7 +33,7 @@ Hi there! I'm **Munna Kumar Jha**, a fresher Software Engineer with a passion fo
 ### 📚 **Book Site Website**  
 - **Description:** A responsive platform for exploring, reviewing, and rating books.  
 - **Tech Stack:** HTML, CSS, JavaScript, Node.js, MongoDB  
-- **Live Demo:** [Book Site Live](#)  
+- 
 - **GitHub Repo:** [Book Site Repo](#)  
 
 ---
@@ -41,7 +41,7 @@ Hi there! I'm **Munna Kumar Jha**, a fresher Software Engineer with a passion fo
 ### 📝 **Blog Site**  
 - **Description:** A feature-rich blogging platform with user authentication and CRUD functionality.  
 - **Tech Stack:** React.js, Express.js, MySQL  
-- **Live Demo:** [Blog Site Live](#)  
+- /***Live Demo:** [Blog Site Live](#) */ 
 - **GitHub Repo:** [Blog Site Repo](#)  
 
 ---
